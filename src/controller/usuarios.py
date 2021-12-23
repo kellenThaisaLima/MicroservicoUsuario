@@ -15,3 +15,19 @@ usuarios_db = [
 class ListaDeUsuarios(Resource):
     def get(self, ):
         return usuarios_db
+
+    def post(self, ):
+        response = api.payload
+        usuarios_db.append(response)
+        return response, 200
+
+#não consegui fazer funcionar
+    def delete(self, id):        
+        del usuarios_db[id]
+        return '', 204
+
+    def put(self, id):
+        args = parser.parse_args()
+        task = {'task': args['task']}
+        usuarios_db[id] = task
+        return task, 201
