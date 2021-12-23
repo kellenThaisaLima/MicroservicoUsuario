@@ -166,23 +166,28 @@ Que o Flask gera uma documentação automatica;
 Conseguir fazer o readme do git;
 Utilização de banco de dados Sqlite;
 
+## 🛠️ Construído com
+
+Mencione as ferramentas que você usou para criar seu projeto
+
+* [Python]- Linguagem utilizada
+* [Flask] - MicroBiblioteca utilizada para criar as APIs
+* [Heroku] - Ferramenta utilizada para fazer deploy
+* [Insomnia] - Ferramenta utilizada para fazer o teste de rotas
+* [Sqlite3] - Ferramenta utilizada para criação de banco de dados
+* [Linux] - Sistema operacional utilizado
 
 
-
-### 🔗 Links
+## 🔗 Links
 [![portfolio](https://github.com/kellenThaisaLima)
 [![linkedin](https://www.linkedin.com/in/kellenthaisadelima/)
 
 
-
-
-
-### 🎁 Expressões de gratidão
+## 🎁 Expressões de gratidão
 
 * Eu amei fazer esse projeto e aprendi muito 📢
 * Me ajudem a melhorar esse projeto pessoal, experiência enriquecedora 🍺 
 * Obrigado QuiteJá pela oportunidade🤓.
-
 
 
 ---
