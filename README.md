@@ -18,46 +18,6 @@ Para iniciar o projeto, acesse a pasta main e execute:
   python main.py
 ```
 
-
-### Demo
-
-Rota GET no Insomnia
-
-https://uploaddeimagens.com.br/imagens/ZiveFXs
-
-
-### Contribuindo
-
-As constribuições são sempre bem vindas!
-
-Os vídeos de Pedro Impulcetto me ajudaram no desenvolvimento https://www.youtube.com/watch?v=levz4eumJ98
-
-### Deployment
-
-Tentei fazer o deploy no heroku mas não consegui, não encontrei um tutorial para fazer deploy com o makefile
-
-```bash
-  npm run deploy
-```
-
-
-### Rotas API
-
-GET
-http://127.0.0.1:5000/usuarios
-
-POST
-http://127.0.0.1:5000/usuarios
-
-
-As rotas put e delete não estão funcionais, pois não consegui concluir
-
-DELETE
-http://127.0.0.1:5000/
-
-PUT
-http://127.0.0.1:5000/
-
 ### Instalar os pacotes
 
 Python:
@@ -88,6 +48,7 @@ Werkzeug:
 ```http
   pip install Werkzeug==0.16.0
 ```
+
     
 ### Para rodar localmente
 
@@ -118,9 +79,43 @@ Inicie o servidor
 ```
 
 
+### Deployment
+
+Tentei fazer o deploy no heroku mas não consegui, não encontrei um tutorial para fazer deploy com o makefile
+
+```bash
+  npm run deploy
+```
+
+
 ### Documentação
 
 [Documentation](http://127.0.0.1:5000/docs)
+
+
+### Rotas API
+
+GET
+http://127.0.0.1:5000/usuarios
+
+POST
+http://127.0.0.1:5000/usuarios
+
+
+As rotas put e delete não estão funcionais, pois não consegui concluir
+
+DELETE
+http://127.0.0.1:5000/
+
+PUT
+http://127.0.0.1:5000/
+
+
+### Demo
+
+Rota GET no Insomnia
+
+https://uploaddeimagens.com.br/imagens/ZiveFXs
 
 
 ### Deseafios a serem superados
@@ -176,6 +171,12 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [Insomnia] - Ferramenta utilizada para fazer o teste de rotas
 * [Sqlite3] - Ferramenta utilizada para criação de banco de dados
 * [Linux] - Sistema operacional utilizado
+
+## Contribuindo
+
+As constribuições são sempre bem vindas!
+
+Os vídeos de Pedro Impulcetto me ajudaram no desenvolvimento https://www.youtube.com/watch?v=levz4eumJ98
 
 
 ## 🔗 Links
