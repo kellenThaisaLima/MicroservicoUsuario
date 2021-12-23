@@ -158,11 +158,11 @@ Conseguir fazer uma segunda API que consuma dados desta
 
 ### Lições Aprendidas
 
-Criação de rotas de API REST com padrão CRUD com tecnologia PYTHON;
-Configuração de ambiente Flask;
-Que o Flask gera uma documentação automatica;
-Conseguir fazer o readme do git;
-Utilização de banco de dados Sqlite;
+* Criação de rotas de API REST com padrão CRUD com tecnologia PYTHON;
+* Configuração de ambiente Flask;
+* Que o Flask gera uma documentação automatica;
+* Conseguir fazer o readme no git;
+* Utilização de banco de dados Sqlite em Python;
 
 ## 🛠️ Construído com
 
@@ -187,7 +187,7 @@ Os vídeos de Pedro Impulcetto me ajudaram no desenvolvimento https://www.youtub
 [![linkedin](https://www.linkedin.com/in/kellenthaisadelima/)
 
 
-## 🎁 Expressões de gratidão
+## 🎁 Gratidão
 
 * Eu amei fazer esse projeto e aprendi muito 📢
 * Me ajudem a melhorar esse projeto pessoal, experiência enriquecedora 🍺 
