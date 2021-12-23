@@ -6,7 +6,10 @@ Desenvolvimento de uma API REST com Python e Flask para inclusão de usuários
 
 ## 🚀 Começando
 
-A tabela usuário é composta por 5 colunas 
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+
+A tabela usuário é composta por 5 colunas:
+
 ID, CPF, NOME, DATA_DE_NASCIMENTO, DATA_DE_CRIAÇÃO e DATA_DE_ATUALIZAÇÃO
 
 
@@ -52,7 +55,7 @@ Werkzeug:
     
 ### Para rodar localmente
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+
 
 Clone o projeto
 
